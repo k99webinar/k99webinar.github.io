@@ -20,8 +20,8 @@ Attend the **webinar** on November 1st, 2021 to:
 Panelists:
 - <a href="https://www.nei.nih.gov/grants-and-training/contact-grants-and-funding-staff">Neeraj Agarwal</a>, Ph.D., Program Official for Research Training, National Eye Institute (NEI), NIH
 - <a href="https://bionicvisionlab.org">Michael Beyeler</a>, Ph.D., Assistant Professor, University of California-Santa Barbara
-- <a href="https://www.ultralowvisionlabjhu.net/people/arathy-kartha">Arathy Kartha</a>, Ph.D., Johns Hopkins University
-- <a href="http://rajishyam.info/">Raji Shyam</a>, Ph.D., Indiana University-Bloomington
+- <a href="https://www.ultralowvisionlabjhu.net/people/arathy-kartha">Arathy Kartha</a>, Ph.D., Postdoctoral Fellow, Johns Hopkins University
+- <a href="http://rajishyam.info/">Raji Shyam</a>, Ph.D., Postdoctoral Fellow, Indiana University-Bloomington
 - <a href="https://yingzixiong.com/">Yingzi Xiong</a>, Ph.D., Research Assistant Professor, University of Minnesota
 
 Organized and compiled by:
