@@ -4,7 +4,7 @@ layout: default
 
 ## K99/R00 Webinar
 
-<img src="https://github.com/k99webinar/k99webinar.github.io/raw/main/k99flyer.jpg" style="height: 600px" align="right"/>
+<img src="https://github.com/k99webinar/k99webinar.github.io/raw/main/k99flyer.jpg" style="width: 50%" align="right"/>
 
 - Are you a **senior graduate student**?
 - Are you a **freshly minted postdoc**?
@@ -42,4 +42,4 @@ In the below PDF document, you will find:
 4. Answers to other questions from the community
 5. Checklist for application
 
-[K99/R00 Award: Tips and Strategies for NEI Applicants](https://github.com/k99webinar/k99webinar.github.io/raw/main/k99tips.pdf)
+<a href="https://github.com/k99webinar/k99webinar.github.io/raw/main/k99tips.pdf">K99/R00 Award: Tips and Strategies for NEI Applicants</a>
