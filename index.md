@@ -1,6 +1,10 @@
-## Demystifying the K99/R00 Application
+---
+layout: default
+---
 
-### Tips and Strategies for NEI Applicants
+## Tips and Strategies for NEI Applicants
+
+<img src="https://github.com/k99webinar/k99webinar.github.io/blob/main/k99flyer.jpg" style="height: 600px" align="right"/>
 
 - Are you a **senior graduate student**?
 - Are you a **freshly minted postdoc**?
