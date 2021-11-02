@@ -28,6 +28,8 @@ Organized and compiled by:
 - Raji Shyam, Ph.D., Indiana University-Bloomington
 - Arathy Kartha, Ph.D., Johns Hopkins University
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WKIeGc6YkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tips and Strategies for NEI Applicants
 
 We are a panel of K99 award recipients from the National Eye Institute.
